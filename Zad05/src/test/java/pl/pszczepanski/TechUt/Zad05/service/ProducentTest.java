@@ -65,7 +65,7 @@ public class ProducentTest {
         Producent test = pm.findById(id);
 
         assertEquals(producent.getID(), test.getID());
-        
+
 
     }
 
